@@ -1,0 +1,8 @@
+//git config user name
+uqair
+//git comfig user email
+dotly6528@gmail.com
+
+//git remote add origin url
+http://bilalsipra@webdev/FikifooAdminPanelReact.git
+
